@@ -1,0 +1,16 @@
+.maisNoticias{
+    border-radius: 20px;
+    border-style: none;
+
+    padding: 4px 8px;
+    transition: all 0.8s;
+    color: gray;
+    width: fit-content;
+    align-self: flex-end;
+
+    font-size: 16px;
+}
+
+.maisNoticias:hover{
+    background-color: darkgray;
+}

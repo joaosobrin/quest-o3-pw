@@ -1,0 +1,29 @@
+.card{
+    background-color: rgb(255, 255, 255);
+    border-top: 1px solid rgb(232, 232, 232);
+    margin-top: 10px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: row;
+
+    padding-left: 15px;
+    padding-top: 1px;
+    font-weight: bold
+}
+p{
+    margin: 10;
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+
+.data{
+    color: #9a9797;
+    font-size: 25px;
+    width: 100px;
+    font-weight: 150;
+}
+
+.desc{
+    color: #c52020;
+}
